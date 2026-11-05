@@ -1,1 +1,26 @@
+# Arduino compiled files
+*.hex
+*.elf
+*.bin
+*.map
 
+# Build folders
+build/
+cmake-build-*/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*~
